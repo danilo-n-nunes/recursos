@@ -1,0 +1,15 @@
+C:\projetos\CSharp_net_asp\Properties\Properties\bin\Debug\net6.0\Properties.exe
+C:\projetos\CSharp_net_asp\Properties\Properties\bin\Debug\net6.0\Properties.deps.json
+C:\projetos\CSharp_net_asp\Properties\Properties\bin\Debug\net6.0\Properties.runtimeconfig.json
+C:\projetos\CSharp_net_asp\Properties\Properties\bin\Debug\net6.0\Properties.dll
+C:\projetos\CSharp_net_asp\Properties\Properties\bin\Debug\net6.0\Properties.pdb
+C:\projetos\CSharp_net_asp\Properties\Properties\obj\Debug\net6.0\Properties.csproj.AssemblyReference.cache
+C:\projetos\CSharp_net_asp\Properties\Properties\obj\Debug\net6.0\Properties.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\CSharp_net_asp\Properties\Properties\obj\Debug\net6.0\Properties.AssemblyInfoInputs.cache
+C:\projetos\CSharp_net_asp\Properties\Properties\obj\Debug\net6.0\Properties.AssemblyInfo.cs
+C:\projetos\CSharp_net_asp\Properties\Properties\obj\Debug\net6.0\Properties.csproj.CoreCompileInputs.cache
+C:\projetos\CSharp_net_asp\Properties\Properties\obj\Debug\net6.0\Properties.dll
+C:\projetos\CSharp_net_asp\Properties\Properties\obj\Debug\net6.0\refint\Properties.dll
+C:\projetos\CSharp_net_asp\Properties\Properties\obj\Debug\net6.0\Properties.pdb
+C:\projetos\CSharp_net_asp\Properties\Properties\obj\Debug\net6.0\Properties.genruntimeconfig.cache
+C:\projetos\CSharp_net_asp\Properties\Properties\obj\Debug\net6.0\ref\Properties.dll
